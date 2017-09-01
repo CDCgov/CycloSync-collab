@@ -5,6 +5,6 @@ You are welcome to update and contribute.
 
 1.``` markdownRefCard.sh ```, includes commands for formatting _markdown (.md)_ files 
 
-* ``` markdown.md``` output of markdownRefCard 
+* ``` markdown.md``` output of ``` markdownRefCard.md ``` (convert from .sh to .md) 
 	 
 2.``` bashRefCard.sh ```, includes list of commands for _bash_ scripting  
