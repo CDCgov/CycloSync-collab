@@ -1,8 +1,8 @@
-﻿#DNA Extraction from Sorted Cyclospora Oocysts Using Freeze/Thaw-DNeasy
+﻿# DNA Extraction from Sorted Cyclospora Oocysts Using Freeze/Thaw-DNeasy
 # CDC Center for Global Health
 # Division of Parasitic Diseases & Malaria
-##Parasitic Diseases Branch Reference Laboratories
-###Technical Supervisor: Yvonne Qvarnstrom
+## Parasitic Diseases Branch Reference Laboratories
+### Technical Supervisor: Yvonne Qvarnstrom
 
 # 1) Purpose/Principle
 This job aid describes the procedures to extract total DNA from oocysts of Cyclospora using freeze and thaw to burst up the oocysts followed by DNA extraction and purification using Qiagen DNeasy Blood and Tissue Kit.  This is a standard column based DNA extraction method, with an additional step of freeze/thaw to break up the oocysts wall at the beginning of the procedure. In this method, the standard incubation in presence of proteinase K is extended to three hours in order to better perform the DNA extraction. 
@@ -19,15 +19,16 @@ This job aid describes the procedures to extract total DNA from oocysts of Cyclo
 | Microcentrifuge |          |
 | Thermal Incubator with shaker |        |
 
-#4 Reagents and Media
+# 4) Reagents and Media
 
 | Item | Note |
 | ------ |  --------  |
 | DNeasy Blood and Tissue Kit (Qiagen) |            |
 
-#5 Supplies/Other Materials
+# 5) Supplies/Other Materials
+
 | Item | Note |
-| --------- | --------- |    
+| ---- | ---- |  
 | Microcentrifuge tubes | 1.8 mL |
 | Racks for microcentrifuge tubes |      |
 | Dry Ice | 2.0mL |
@@ -37,10 +38,10 @@ This job aid describes the procedures to extract total DNA from oocysts of Cyclo
 1. Use Universal Precautions, including the use of proper personal protective equipment (PPE) when performing the assay. Wear gloves, lab coat, and eye protection while handling all biological specimens.
 2. Refer to the decontamination SOP before and after performing laboratory work for guidance on appropriate disinfectants, waste disposal, and cleanup.
 3. The decontamination SOP follows established local, state, and federal regulations for proper handling and disposal methods.
-d)All safety data sheets (SDS) for hazardous chemicals are available in the lab manual titled "SDS".
+4. All safety data sheets (SDS) for hazardous chemicals are available in the lab manual titled "SDS".
 
 # 7) Procedure
-##7.1 Setting up the procedure
+## 7.1 Setting up the procedure
 1. Add enough dry ice to the container and fill it up with ethanol.
 2. Set up the thermal incubator to 98oC.
 3. If extracting more than one sample make sure to label each one properly, markers will be dissolved during the freeze process once it contains ethanol.
